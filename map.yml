@@ -1,0 +1,4 @@
+map_name: sengokuJidai
+games:
+- {game_name: SengokuJidai, file_name: sengokuJidai.xml}
+version: 0
